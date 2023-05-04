@@ -37,9 +37,9 @@ function FoodInfo() {
                         <Grid item xs={8}>
                             <img src={Maharashtra} alt='Maharashtra' style={{ height: "257px", width: "400px" }} />
                         </Grid>
-                        <Grid item xs={4} style={{ paddingTop: '100px' }}>
+                        <Grid item xs={4} style={{ paddingTop: '135px' }}>
                             <Button variant="contained" endIcon={<NavigateNextIcon />} className="App" >
-                                <Link to='/signin'>Checkout</Link>
+                                <Link to='/signin' style={{color:'white'}}>Checkout</Link>
                             </Button>
 
                         </Grid>
