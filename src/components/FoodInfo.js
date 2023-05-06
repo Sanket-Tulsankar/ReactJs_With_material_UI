@@ -54,34 +54,3 @@ function FoodInfo() {
 
 export default FoodInfo;
 
-{/* <Grid container spacing={2}>
-<Grid item xs={4}>
-<img src={Puranpoli} alt="PuranPoli"/>
-</Grid>
-<Grid item xs={8}>
-<p>The expression “Indian food” always invokes a riot of flavours arising out of the 
-   incredible diversity of the country’s landscape, climate and cultures. 
-   The culinary culture of Maharashtra can be best explained from a similar perspective.
-    The landscape of this state presents a patchwork of food habits ranging from the briny
-     flavours of the coastal areas to the rustic flavours of the inner mainland. Apart from
-      certain signature dishes that have found a place in restaurant menus throughout the country
-       (such as Vada Pav and Pav Bhaji), traditional Maharashtrian food is relatively unknown beyond
-        the confines of the state. Maharashtrian cuisine is one of the most wholesome and underrated
-         cuisines of the Indian subcontinent.</p>
-</Grid>
-</Grid> */}
-
-
-
-
-
-
-{/* <p>  The expression “Indian food” always invokes a riot of flavours arising out of the 
-   incredible diversity of the country’s landscape, climate and cultures. 
-   The culinary culture of Maharashtra can be best explained from a similar perspective.
-    The landscape of this state presents a patchwork of food habits ranging from the briny
-     flavours of the coastal areas to the rustic flavours of the inner mainland. Apart from
-      certain signature dishes that have found a place in restaurant menus throughout the country
-       (such as Vada Pav and Pav Bhaji), traditional Maharashtrian food is relatively unknown beyond
-        the confines of the state. Maharashtrian cuisine is one of the most wholesome and underrated
-         cuisines of the Indian subcontinent.</p> */}
